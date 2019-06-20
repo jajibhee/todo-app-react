@@ -1,0 +1,16 @@
+.App {
+  padding: 1rem;
+  background-color: red;
+}
+
+.btn {
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  transition: all 0.5s ease-in;
+}
+.btn:hover {
+  transform: scale(1.1);
+  background-color: red;
+}
